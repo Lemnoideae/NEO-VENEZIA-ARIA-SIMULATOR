@@ -13,4 +13,5 @@ and enjoy the warm connections you'll make with others.
 
 ---
 
-2025/07/06 v1.0 released
+2025/07/06 v1.1 released
+2025/07/05 v1.0 released
