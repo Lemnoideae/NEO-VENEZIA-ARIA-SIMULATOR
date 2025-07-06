@@ -1,4 +1,4 @@
-# NEO-VENEZIA-ARIA-SIMULATOR
+**[ NEO-VENEZIA: ARIA SIMULATOR ]**
 
 *Welcome to the water planet, Aqua, 
 and the floating tourist city of Neo-Venezia.*
@@ -13,5 +13,6 @@ and enjoy the warm connections you'll make with others.
 
 ---
 
-2025/07/06 v1.1 released
-2025/07/05 v1.0 released
+<p>2025/07/06 15:10 - v1.2 (NPC generation module improvement)</p>
+<p>2025/07/06 02:30 - v1.1 (Token optimization)</p>
+<p>2025/07/05 09:30 - v1.0 (Official Release)</p>
