@@ -13,7 +13,8 @@ and enjoy the warm connections you'll make with others.
 
 ---
 
-<p>2025/07/07 20:45 - v1.3 (Markdown, Pseudo-Recursive Search Improvement)</p>
-<p>2025/07/06 15:10 - v1.2 (NPC generation module improvement)</p>
-<p>2025/07/06 02:30 - v1.1 (Token optimization)</p>
-<p>2025/07/05 09:30 - v1.0 (Official Release)</p>
+<p>250709 18:00 - v1.5 (Major improvements to settings and token optimization)</p>
+<p>250707 20:45 - v1.3 (Improved Markdown and pseudo-recursive search)</p>
+<p>250706 15:10 - v1.2 (Improved resident generation module)</p>
+<p>250706 02:30 - v1.1 (Token optimization)</p>
+<p>250705 09:30 - v1.0 (First release)</p>
