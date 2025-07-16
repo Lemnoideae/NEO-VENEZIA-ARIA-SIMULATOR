@@ -13,6 +13,7 @@ and enjoy the warm connections you'll make with others.
 
 ---
 
+<p>250716 15:10 - v1.81 (Character speech pattern refinement - Aika)</p>
 <p>250716 14:10 - v1.8 (Character Lorebook Improvement - Rules, Character Personality, etc.)</p>
 <p>250715 15:40 - v1.7 (Changed character example dialogue to Japanese and added detailed settings)</p>
 <p>250709 18:00 - v1.5 (Major improvements to settings and token optimization)</p>
