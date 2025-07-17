@@ -13,6 +13,7 @@ and enjoy the warm connections you'll make with others.
 
 ---
 
+<p>250717 16:00 - v1.91 (Status Window Prompt Details Improvement)</p>
 <p>250717 15:00 - v1.9 (Status Window Prompt Improvement and Addition of Precautions)</p>
 <p>250716 15:10 - v1.81 (Character speech pattern refinement - Aika)</p>
 <p>250716 14:10 - v1.8 (Character Lorebook Improvement - Rules, Character Personality, etc.)</p>
