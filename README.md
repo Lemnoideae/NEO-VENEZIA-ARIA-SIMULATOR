@@ -13,13 +13,5 @@ and enjoy the warm connections you'll make with others.
 
 ---
 
-<p>250717 16:00 - v1.91 (Status Window Prompt Details Improvement)</p>
-<p>250717 15:00 - v1.9 (Status Window Prompt Improvement and Addition of Precautions)</p>
-<p>250716 15:10 - v1.81 (Character speech pattern refinement - Aika)</p>
-<p>250716 14:10 - v1.8 (Character Lorebook Improvement - Rules, Character Personality, etc.)</p>
-<p>250715 15:40 - v1.7 (Changed character example dialogue to Japanese and added detailed settings)</p>
-<p>250709 18:00 - v1.5 (Major improvements to settings and token optimization)</p>
-<p>250707 20:45 - v1.3 (Improved Markdown and pseudo-recursive search)</p>
-<p>250706 15:10 - v1.2 (Improved resident generation module)</p>
-<p>250706 02:30 - v1.1 (Token optimization)</p>
+<p>250718 20:00 - v2.0 (First stable version)</p>
 <p>250705 09:30 - v1.0 (First release)</p>
