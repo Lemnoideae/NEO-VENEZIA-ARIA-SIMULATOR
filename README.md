@@ -13,6 +13,7 @@ and enjoy the warm connections you'll make with others.
 
 ---
 
-<p>250721 16:40 - v2.2 (Markdown syntax fix & slight token reduction)</p>
+<p>250722 17:05 - v2.3 (Markdown syntax fix, status display block enhancement, etc.)</p>
+<p>250721 16:40 - v2.2 (Markdown syntax fix, slight token reduction)</p>
 <p>250718 20:00 - v2.0 (First stable version)</p>
 <p>250705 09:30 - v1.0 (First release)</p>
